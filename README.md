@@ -1,2 +1,1 @@
-# Curso-Henry
-Repositorio de prueba del Modulo 0
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora. 
